@@ -1,0 +1,6 @@
+{
+  "name": "Velora Luxury Watches",
+  "description": "An elegant, interactive single-page catalog and reservation platform for Velora's high-end automatic watches, featuring premium animations, specifications, and a mock customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
